@@ -17,7 +17,7 @@
         <ImageView
             android:layout_width="250dp"
             android:layout_height="250dp"
-            android:src="@mipmap/iconfinder_41_itunes_353486"
+            android:src="@drawable/vd_vector"
             android:layout_gravity="center"
             android:layout_marginTop="134dp"
             />
